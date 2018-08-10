@@ -1,0 +1,13 @@
+Marcos,
+
+Here's the test:
+
+Every night we receive list of players with their: name, team, status, and points for the day.
+We need a function that aggregates points by team, and sorts teams in descending order by total points.
+Only active players should be considered for team points calculation.
+
+Please:
+1) Write the function that accepts the list as parameter and returns another list containing the information in the description.
+2) Write at lest 1 unit test for the function.
+
+Thanks,
